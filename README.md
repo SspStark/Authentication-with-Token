@@ -278,7 +278,7 @@ Returns the statistics of total cases, cured, active, deaths of a specific state
 
 #### Response
 
-```
+``
 {
   "totalCases": 724355,
   "totalCured": 615324,
